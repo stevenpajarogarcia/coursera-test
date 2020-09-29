@@ -1,0 +1,49 @@
+article[class^="caja"]
+{
+	border: 2px solid black;
+	display: inline-block;
+	width: 400px;
+	text-align: justify;
+	padding: 0px ;
+	background: gray;
+	
+
+}
+.caja2
+{
+	margin: 50px 20px 50px 20px;
+}
+.caja
+{
+	margin-left: 335px;
+	background: pink;
+	padding: 4px 10px 4px 10px;
+	border: 2px solid black;
+	text-align: justify;
+   display: inline-block;	
+
+}
+.a
+{
+	margin-left: 351px;
+	background: red;
+	padding: 4px 10px 4px 10px;
+	border: 2px solid black;
+	text-align: justify;
+   display: inline-block;	
+   
+}
+.d
+{
+	margin-left: 346px;
+	background: blue;
+	padding: 4px 10px 4px 10px;
+	border: 2px solid black;
+	text-align: justify;
+   display: inline-block;	
+
+}
+.h1
+{
+	text-align: center;
+}
